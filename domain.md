@@ -25,6 +25,7 @@ The physical objects that make up the game. Not concerned with all of the things
 - The game consists of a board with pieces in various squares.
 - The game starts with 24 pieces on the board.
 
+---
 
 # Interactions
 
